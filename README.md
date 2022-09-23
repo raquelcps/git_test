@@ -1,2 +1,2 @@
-# git_test
-testing the git
+# Back to basics
+A simple pages for recipes.
