@@ -1,2 +1,2 @@
 # Back to basics
-A simple pages for recipes.
+A simple page for recipes.
