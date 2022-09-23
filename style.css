@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(243, 226, 116);
+    color: rgb(9, 30, 30);
+}
+
+h1 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+p,
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
